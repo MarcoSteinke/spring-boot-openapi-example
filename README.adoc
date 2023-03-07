@@ -6,7 +6,7 @@ This repository contains a basic example, which demonstrates how to use OpenAPI 
 
 ## Dependency
 
-To use OpenAPI and SwaggerUI inside of your Spring Boot, you have to add the following dependency to your `build.gradle` or `pom.xml`:
+To use OpenAPI and SwaggerUI inside of your Spring Boot project, you have to add the following dependency to your `build.gradle` or `pom.xml`:
 
 #### Maven
 
